@@ -1,87 +1,86 @@
-# Frontend Mentor - QR code component
+# Frontend Mentor - QR code component solution
 
-![Design preview for the QR code component coding challenge](./design/desktop-preview.jpg)
+This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
-## Welcome! 👋
+## Table of contents
 
-Thanks for checking out this front-end coding challenge.
+- [Overview]: Creating a Landing Page with QR Code Component
 
-[Frontend Mentor](https://www.frontendmentor.io) challenges help you improve your coding skills by building realistic projects.
+For the frontend mentor challenge, I undertook the task of designing a landing page with a QR code component using HTML and CSS. The objective was to create an attractive  webpage that incorporates a QR code, providing a seamless user experience.
 
-**To do this challenge, you need a basic understanding of HTML and CSS.**
+To begin, I set up the basic structure of the landing page using HTML. This included creating a main content section, Within the main content section, I allocated space for the QR code component, along with accompanying text and visuals.
 
-## The challenge
+Next, I utilized CSS to style the landing page and make it visually appealing. I applied appropriate fonts, colors, and spacing to ensure a harmonious design. I also implemented responsive design techniques to ensure that the page displays well on different devices and screen sizes.
 
-Your challenge is to build out this QR code component and get it looking as close to the design as possible.
+The main focus of the landing page was the QR code component. To integrate this feature, I used HTML and CSS to create a container for the QR code image.
 
-You can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.
+Throughout the development process, I followed best practices for HTML and CSS, ensuring clean and semantically structured code. 
 
-Want some support on the challenge? [Join our Slack community](https://www.frontendmentor.io/slack) and ask questions in the **#help** channel.
+In conclusion, the task involved creating a landing page with a QR code component using HTML, CSS. The end result is an aesthetically pleasing webpage that effectively incorporates a  QR code, providing a seamless and interactive experience for users.
 
-## Where to find everything
+  - [Screenshot]
+  ![QR-code](c:/Users/Devasya/OneDrive/Desktop/abcd.PNG)
 
-Your task is to build out the project to the designs inside the `/design` folder. You will find both a mobile and a desktop version of the design. 
+  - [Links]
+  [https://qr-code-frontend-mentor-devasya.netlify.app/]
 
-The designs are in JPG static format. Using JPGs will mean that you'll need to use your best judgment for styles such as `font-size`, `padding` and `margin`. 
+- [My process] - 
 
-If you would like the design files (we provide Sketch & Figma versions) to inspect the design in more detail, you can [subscribe as a PRO member](https://www.frontendmentor.io/pro).
+1) Understanding the Requirements:
+   Before starting the project, I thoroughly read and understood the requirements of the frontend mentor challenge. This included the specific features and components to be included on the landing page, as well as any additional instructions or constraints.
 
-You will find all the required assets in the `/images` folder. The assets are already optimized.
+2) I started building the HTML structure of the landing page. I divided the page into logical sections, such as container ,main body and added appropriate semantic tags to each section. This ensured a well-organized and accessible structure for the page.   
 
-There is also a `style-guide.md` file containing the information you'll need, such as color palette and fonts.
+3) To incorporate the QR code component, I created a container within the main content section of the landing page. Using HTML and CSS, I positioned the container appropriately and styled it to fit within the overall design
 
-## Building your project
+4) Once satisfied with the final result, I deployed the landing page to a hosting platform or shared it through a code repository. I then submitted the completed project as part of the frontend mentor challenge, following the specified submission guidelines.
 
-Feel free to use any workflow that you feel comfortable with. Below is a suggested process, but do not feel like you need to follow these steps:
+5) By following this process, I was able to successfully create a landing page with a QR code component, meeting the requirements of the frontend mentor challenge while maintaining a structured and efficient development workflow.
 
-1. Initialize your project as a public repository on [GitHub](https://github.com/). Creating a repo will make it easier to share your code with the community if you need help. If you're not sure how to do this, [have a read-through of this Try Git resource](https://try.github.io/).
-2. Configure your repository to publish your code to a web address. This will also be useful if you need some help during a challenge as you can share the URL for your project with your repo URL. There are a number of ways to do this, and we provide some recommendations below.
-3. Look through the designs to start planning out how you'll tackle the project. This step is crucial to help you think ahead for CSS classes to create reusable styles.
-4. Before adding any styles, structure your content with HTML. Writing your HTML first can help focus your attention on creating well-structured content.
-5. Write out the base styles for your project, including general content styles, such as `font-family` and `font-size`.
-6. Start adding styles to the top of the page and work down. Only move on to the next section once you're happy you've completed the area you're working on.
+  - [Built with]
+  HTML: Used to create the structure and markup of the landing page, defining the different sections and elements.
 
-## Deploying your project
+  CSS: Employed for styling the landing page, including fonts, colors, layout, and responsiveness. CSS also helped in creating visual effects and animations to enhance the user experience.
 
-As mentioned above, there are many ways to host your project for free. Our recommend hosts are:
+  Responsive Design Techniques: Employed various responsive design techniques, including media queries and flexible layouts, to ensure that the landing page displays well on different devices and screen sizes
 
-- [GitHub Pages](https://pages.github.com/)
-- [Vercel](https://vercel.com/)
-- [Netlify](https://www.netlify.com/)
+  Used  integrated development environment (IDE) - VS Code to write and edit the HTML, CSS.
 
-You can host your site using one of these solutions or any of our other trusted providers. [Read more about our recommended and trusted hosts](https://medium.com/frontend-mentor/frontend-mentor-trusted-hosting-providers-bf000dfebe).
 
-## Create a custom `README.md`
+  - [What I learned]
 
-We strongly recommend overwriting this `README.md` with a custom one. We've provided a template inside the [`README-template.md`](./README-template.md) file in this starter code.
+  HTML and CSS Techniques: Through this project, I gained a deeper understanding of HTML and CSS. I learned how to structure a webpage using semantic HTML, effectively organize content, and create visually appealing designs using CSS. I also learned techniques for responsive design to ensure a seamless user experience across different devices.
 
-The template provides a guide for what to add. A custom `README` will help you explain your project and reflect on your learnings. Please feel free to edit our template as much as you like.
 
-Once you've added your information to the template, delete this file and rename the `README-template.md` file to `README.md`. That will make it show up as your repository's README file.
+  - [Useful resources]
 
-## Submitting your solution
+  1) w3 schools - https://www.w3schools.com/
+  2) chatgpt -https://chat.openai.com/
+  3) google fonts - https://fonts.google.com/
 
-Submit your solution on the platform for the rest of the community to see. Follow our ["Complete guide to submitting solutions"](https://medium.com/frontend-mentor/a-complete-guide-to-submitting-solutions-on-frontend-mentor-ac6384162248) for tips on how to do this.
+- [Author](Devasya Rajguru)
+- [Acknowledgments]
+Acknowledgements:
 
-Remember, if you're looking for feedback on your solution, be sure to ask questions when submitting it. The more specific and detailed you are with your questions, the higher the chance you'll get valuable feedback from the community.
+I would like to express my gratitude to the following individuals and resources that have contributed to the successful completion of the landing page with a QR code component:
 
-## Sharing your solution
+Frontend Mentor: I would like to thank Frontend Mentor for providing the challenge and opportunity to work on this project. Their platform offers a valuable learning experience for frontend developers, providing real-world design projects and fostering a supportive community.
 
-There are multiple places you can share your solution:
+OpenAI GPT-3: I am grateful for the assistance provided by the OpenAI GPT-3 language model. Its ability to generate accurate and helpful responses to my queries significantly contributed to the development process and the quality of the project.
 
-1. Share your solution page in the **#finished-projects** channel of the [Slack community](https://www.frontendmentor.io/slack). 
-2. Tweet [@frontendmentor](https://twitter.com/frontendmentor) and mention **@frontendmentor**, including the repo and live URLs in the tweet. We'd love to take a look at what you've built and help share it around.
-3. Share your solution on other social channels like LinkedIn.
-4. Blog about your experience building your project. Writing about your workflow, technical choices, and talking through your code is a brilliant way to reinforce what you've learned. Great platforms to write on are [dev.to](https://dev.to/), [Hashnode](https://hashnode.com/), and [CodeNewbie](https://community.codenewbie.org/).
+Online Tutorials and Documentation: Throughout the project, I relied on various online tutorials, articles, and documentation to expand my knowledge and overcome challenges. Resources like W3 schools and Stack Overflow were instrumental in providing guidance and solutions.
 
-We provide templates to help you share your solution once you've submitted it on the platform. Please do edit them and include specific questions when you're looking for feedback. 
+Developer Communities: I want to acknowledge the vibrant developer communities and forums where I sought assistance and shared knowledge. Platforms such as Stack Overflow, Reddit, and Discord have been invaluable in connecting with fellow developers and receiving support.
 
-The more specific you are with your questions the more likely it is that another member of the community will give you feedback.
+### Links
 
-## Got feedback for us?
+- Solution URL: [Add solution URL here](https://github.com/devasyarajguru/QR-code-FrontendMentor)
+- Live Site URL: [Add live site URL here](https://qr-code-frontend-mentor-devasya.netlify.app/)
 
-We love receiving feedback! We're always looking to improve our challenges and our platform. So if you have anything you'd like to mention, please email hi[at]frontendmentor[dot]io.
+### Useful resources
 
-This challenge is completely free. Please share it with anyone who will find it useful for practice.
+## Author
 
-**Have fun building!** 🚀
+- Github - [@devasyarajguru](https://github.com/devasyarajguru)
+- Twitter - [@RajguruDevasya](https://twitter.com/RajguruDevasya)
+
