@@ -19,7 +19,7 @@ html,body
 
 .container
 {
-    padding: 50px;
+    padding: 150px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -94,49 +94,270 @@ img
 } */
 
 @media screen and (max-width: 375px) {
-    .container {
+    .container
+    {
       display: flex;
       justify-content: center;
       align-items: center;
       margin: 10px;
       padding: 10px;
-      height: auto; /* Remove height restriction */
+      height: auto;
+    }
+
+    .main-body
+    {
+      width: 100%;
+      margin: 10px;
+      border-radius: 10px;
+      box-shadow: none;
+    }
+
+    #qr-image
+    {
+      margin: 10px;
+    }
+
+    img
+    {
+      max-width: 100%;
+      border-radius: 8px;
+    }
+
+    #content
+    {
+      margin: 10px;
+      margin-top: 10px;
+      margin-bottom: 20px;
+
+    }
+
+    #content #first
+    {
+      font-size: 15px;
+      padding: 5px;
     }
     
-    .main-body {
-      width: 100%; /* Change width to fit the screen */
-      margin: 10px;
-      border-radius: 10px; /* Remove border radius */
-      box-shadow: none; /* Remove box shadow */
+    #content #second
+    {
+      font-size: 10px;
+      margin-top: 5px;
+      padding: 5px;
     }
-  
-    #qr-image {
-      margin: 10px; /* Adjust top margin */
-      
-    }
-  
-    img {
-      max-width: 100%; /* Adjust max width */
-      border-radius: 8px; /* Remove border radius */
-    }
-  
-    #content {
-      margin: 10px;
-      margin-top: 10px; /* Adjust top margin */
-      margin-bottom: 10px; /* Adjust bottom margin */
-    }
-  
-    #content #first {
-      font-size: 15px; /* Adjust font size */
-      padding: 5px; /* Adjust padding */
-    }
-  
-    #content #second {
-      font-size: 10px; /* Adjust font size */
-      margin-top: 5px; /* Adjust top margin */
-      padding: 5px; /* Adjust padding */
-    }
+}
+
+@media screen and (min-width:375px) and (max-width:418px) {
+  .container
+  {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+    padding: 10px;
+    height: auto;
+  }
+
+  .main-body
+  {
+    width: 100%;
+    margin: 10px;
+    border-radius: 10px;
+    box-shadow: none;
+  }
+
+  #qr-image
+  {
+    margin: 10px;
+  }
+
+  img
+  {
+    max-width: 100%;
+    border-radius: 8px;
+  }
+
+  #content
+  {
+    margin: 10px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+
+  }
+
+  #content #first
+  {
+    font-size: 15px;
+    padding: 5px;
   }
   
+  #content #second
+  {
+    font-size: 10px;
+    margin-top: 5px;
+    padding: 5px;
+  }
+}
+
+@media screen and (min-width:418px) and (max-width:667px) {
+  .container
+  {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+    padding: 10px;
+    height: auto;
+  }
+
+  .main-body
+  {
+    width: 100%;
+    margin: 10px;
+    border-radius: 10px;
+    box-shadow: none;
+  }
+
+  #qr-image
+  {
+    margin: 10px;
+  }
+
+  img
+  {
+    max-width: 100%;
+    border-radius: 8px;
+  }
+
+  #content
+  {
+    margin: 10px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+
+  }
+
+  #content #first
+  {
+    font-size: 25px;
+    padding: 5px;
+  }
+  
+  #content #second
+  {
+    font-size: 20px;
+    margin-top: 5px;
+    padding: 5px;
+  }
+}
+
+@media screen and (max-width:259px)  {
+  .container
+  {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+    padding: 10px;
+    height: auto;
+  }
+
+  .main-body
+  {
+    width: 100%;
+    margin: 10px;
+    border-radius: 10px;
+    box-shadow: none;
+  }
+
+  #qr-image
+  {
+    margin: 10px;
+  }
+
+  img
+  {
+    max-width: 100%;
+    border-radius: 8px;
+  }
+
+  #content
+  {
+    margin: 10px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+
+  }
+
+  #content #first
+  {
+    font-size: 15px;
+    padding: 5px;
+  }
+  
+  #content #second
+  {
+    font-size: 10px;
+    margin-top: 5px;
+    padding: 5px;
+  }
+}
+
+@media screen and (max-width: 375px) {
+    .container
+    {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      margin: 10px;
+      padding: 10px;
+      height: auto;
+    }
+
+    .main-body
+    {
+      width: 100%;
+      margin: 10px;
+      border-radius: 10px;
+      box-shadow: none;
+    }
+
+    #qr-image
+    {
+      margin: 10px;
+    }
+
+    img
+    {
+      max-width: 100%;
+      border-radius: 8px;
+    }
+
+    #content
+    {
+      margin: 10px;
+      margin-top: 10px;
+      margin-bottom: 20px;
+
+    }
+
+    #content #first
+    {
+      font-size: 15px;
+      padding: 5px;
+    }
+    
+    #content #second
+    {
+      font-size: 10px;
+      margin-top: 5px;
+      padding: 5px;
+    }
+}
+
+@media screen and (min-width:667px) {
+  .container
+  {
+    height: auto;
+  }
+}
 
 
